@@ -1,4 +1,4 @@
-# VicHACK
+# READ ME !!!!!!
 
 1. To install all the needed packages please run the python file "package_insatller.py"
 
