@@ -15,6 +15,8 @@ Then type into the terminal
 5. Type into the terminal 
 "npm run dev"
 
+#main.py and frontend @ npm run dev MUST be running co-currently
+
 6. Click onto the localhost website provided in the terminal 
 
 7. Please choose a video from the provided boxing clips 
