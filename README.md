@@ -28,3 +28,4 @@ PLEASE ONLY USE A VERSION OF PYTHON THAT IS LESS THAN 3.12
 9. Click on start analysis once the video is finished processing
 
 Any problems with the submission: text 0466279228
+(Video Demo in DevPost is choppy due to Zoom Screen Recording/Live Testing of the AI's analysis is a lot smoother than the video)
