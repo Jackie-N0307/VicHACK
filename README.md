@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# READ ME !!!!!!
 
-Currently, two official plugins are available:
+1. To install all the needed packages please run the python file "package_insatller.py"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Launch the API, in the terminal type 
+"cd BackEnd"
+Then type into the terminal
+"python main.py"
+
+3. Open a new terminal 
+
+4. Type into the terminal
+"cd frontend"
+
+5. Type into the terminal 
+"npm run dev"
+
+#main.py and frontend @ npm run dev MUST be running co-currently
+
+6. Click onto the localhost website provided in the terminal 
+
+7. Please choose a video from the provided boxing clips 
