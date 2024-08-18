@@ -21,7 +21,7 @@ PLEASE ONLY USE A VERSION OF PYTHON THAT IS LESS THAN 3.12
 
 6. Click onto the localhost website provided in the terminal 
 
-7. Please choose a video from the provided boxing clips
+7. Please choose a video from the provided boxing clips in the "testData" file
 
 8. Once video is selected, it will be processed and analysed: Please be patient!
 
