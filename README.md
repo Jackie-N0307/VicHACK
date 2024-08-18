@@ -1,5 +1,7 @@
 
 # READ ME !!!!!!
+PLEASE ONLY USE A VERSION OF PYTHON THAT IS LESS THAN 3.12
+
 
 1. To install all the needed packages please run the python file "package_insatller.py"
 
